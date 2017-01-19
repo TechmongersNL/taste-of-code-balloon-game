@@ -1,6 +1,6 @@
 ##HTML
 
-In this section the very basics of HTML will covered including:
+In this section participants will be introduced to the very basics of HTML including:
 
 * HTML structure
 * Tags

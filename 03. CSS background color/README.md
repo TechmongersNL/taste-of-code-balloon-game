@@ -17,8 +17,8 @@ By the end of this section participants will gain a basic understanding of CSS
 with the aim of applying a background-color to their current html document without
 assistance.
 
-Although this section is very short, ample time will be given for people to play
-around with other CSS properties on their own or with tips from the coaches.
+Although this section is very short, ample time will be given for participants to
+experiment with other CSS properties on their own and with help from the coaches.
 
 ![Exercise result]
 (https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/css_background.png)
