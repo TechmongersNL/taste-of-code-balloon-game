@@ -12,6 +12,6 @@
  Bit Balloon.
 
  ![Finished Product]
- (https://github.com/Codaisseur/taste-of-code-balloon-game/blob/b50c10564f8516544f8dcf8d07adc7d67acd46d8/Screenshots/finished_product.png?raw=true)
+ (https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/b50c10564f8516544f8dcf8d07adc7d67acd46d8/Screenshots/finished_product.png)
 
 [Play finished product](http://tasteofcode.bitballoon.com/)
