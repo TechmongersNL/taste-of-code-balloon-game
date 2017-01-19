@@ -19,3 +19,6 @@ Participants will need to carry out the following:
 
 * Re-create the HTML skeleton whilst applying content to the respective tags.
 An example will be displayed on the screen for participants to seek guidance.
+
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/3af761cc68953e23ba2b5e22dd2af16fc0ab6f5a/Screenshots/html1.png)
