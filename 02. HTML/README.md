@@ -6,10 +6,10 @@ In this section the very basics of HTML will covered including:
 * Tags
 * Application of content
 
-#### ✎ Exercise: Your Very First HTML
+### ✎ Exercise: Basic HTML
 
 By the end of this section participants will create a HTML document using a basic
-skeleton structure and apply content to title, h1, p, and ul/li tags.
+skeleton structure and apply content to **title**, **h1**, **p**, and **ul/li** tags.
 
 Participants will need to carry out the following:
 
