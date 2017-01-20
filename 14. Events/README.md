@@ -1,6 +1,6 @@
 ##Events
 
-In this section, participants will implement the a click event that will "pop"
+In this section, participants will implement a click event that will "pop"
 a balloon object when engaged.
 
 ### ✎ Exercise: Implement click event to remove balloons
