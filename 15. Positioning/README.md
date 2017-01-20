@@ -41,4 +41,4 @@ horizontally across the bottom of the screen using the css method in jQuery.
 ```
 
 ![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/click1.png)
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/positioning2.png)
