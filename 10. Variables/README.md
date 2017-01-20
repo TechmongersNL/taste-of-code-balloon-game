@@ -18,3 +18,5 @@ var num1 = 1;
 var num2 = 2;
 num1 + num2
 ```
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/variables.png)
