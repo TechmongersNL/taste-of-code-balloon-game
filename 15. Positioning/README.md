@@ -15,6 +15,9 @@ within the style tags, with the properties "position" and "bottom".
 }
 ```
 
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/click1.png)
+
 ### ✎ Exercise 2: Align balloon objects horizontally
 
 Completion of this exercise will require participants to align the balloon objects
@@ -36,3 +39,6 @@ horizontally across the bottom of the screen using the css method in jQuery.
   balloon.remove();
 </script>
 ```
+
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/click1.png)
