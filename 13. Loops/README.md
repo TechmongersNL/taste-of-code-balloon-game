@@ -9,10 +9,10 @@ Completion of this exercise will require participants to update their current
 code to incorporate loop functionality. The end result should see an additional
 10 balloons being created.
 
-var balloon = $(".balloon");
 ```javascript
+var balloon = $(".balloon");
 for(var i=0; 1<10; i++){
-```
   var balloonCopy = balloon.clone();
   balloonCopy.appendTo("body");
 }
+```
