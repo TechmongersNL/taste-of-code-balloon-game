@@ -13,7 +13,7 @@ skeleton structure and apply content to **title**, **h1**, **p**, and **ul/li** 
 
 Participants will need to carry out the following:
 
-* Create a folder on their desktop called `taste_of_code`
+* Create a folder on their desktop called `my_first_code`
 
 * Save a new file in atom called `my_first_code.html`
 
