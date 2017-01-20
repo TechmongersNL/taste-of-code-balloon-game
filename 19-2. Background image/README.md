@@ -1,9 +1,9 @@
-##Changing the Cursor to an Image
+##Adding a Background Image
 
 ```css
 <style>
-html {
-  cursor: url(crosshair.png) 64 64, auto;
+body {
+  background-image: url(beebs_background.jpg);
 }
 
 .balloon{

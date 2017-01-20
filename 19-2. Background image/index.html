@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Balloon Game</title>
+    <style>
+      body {
+        background-image: url(beebs_background.jpg);
+      }
+
+      .balloon{
+        position: absolute;
+        bottom: 0;
+      }
+
+      .inflatable {
+        width: 180px;
+        height: 200px;
+        background-color: yellow;
+        border-radius: 50%;
+      }
+
+      .string {
+        width: 1px;
+        height: 100px;
+        background-color: black;
+        margin-left: 90px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="counter">
+      0
+    </div>
+    <div class="balloon">
+      <div class="inflatable"></div>
+      <div class="string"></div>
+    </div>
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script>
+    var balloon = $(".balloon");
+    var counter = 0;
+    for(var i=0; i<10; i++){
+      var balloonCopy = balloon.clone();
+      balloonCopy.css({
+        left: i * 200
+      });
+      balloonCopy.appendTo("body");
+      balloonCopy.click(function(){
+        $(this).remove();
+        counter = counter + 1;
+        $(".counter").html(counter);
+      });
+      balloonCopy.animate({ bottom: "100%"}, 8000 );
+    };
+    balloon.remove();
+  </script>
+</html>
