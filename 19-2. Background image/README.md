@@ -25,3 +25,6 @@ body {
 }
 </style>
 ```
+
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/background_image.png)
