@@ -4,6 +4,8 @@ In this section, participants will be introduced to the JavaScript library jQuer
 Other than covering some context about why we are using jQuery, this section will
 also cover the inclusion of jQuery in their document.
 
+From this point on, participants will be strongly guided to an MVP of the game.
+
 ### ✎ Exercise: Add jQuery library to project
 
 Completion of this exercise requires participants to add a script tag that
