@@ -13,7 +13,7 @@ stylesheet approach throughout the workshop**
 
 ### ✎ Exercise: Apply background-color to html document
 
-By the end of this section participants will gain a basic understanding of CSS
+By the end of this exercise, participants will gain a basic understanding of CSS
 with the aim of applying a background-color to their current html document without
 assistance.
 

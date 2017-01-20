@@ -5,7 +5,7 @@ and how to apply them.
 
 ### ✎ Exercise: Apply CSS class to paragraph tag
 
-By the end of this section, participants will gain a better understanding
+By the end of this exercise, participants will gain a better understanding
 surrounding the implementation of CSS and the application of classes containing
 attributes and values.
 
