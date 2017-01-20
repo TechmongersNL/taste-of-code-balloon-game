@@ -45,3 +45,6 @@ document that represents the visual display of the counter.
   </div>
 </body>
 ```
+
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/basic_counter.png)
