@@ -56,3 +56,6 @@ css properties and values to the defined classes in exercise 1.
   </body>
 </html>
 ```
+
+[Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/divs.png)
