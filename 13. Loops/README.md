@@ -16,3 +16,5 @@ for(var i=0; 1<10; i++){
   balloonCopy.appendTo("body");
 }
 ```
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/loop.png)
