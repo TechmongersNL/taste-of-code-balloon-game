@@ -10,7 +10,7 @@ completion requires that they:
 
 * Create a new folder on their desktop called `taste_of_code`
 
-* Save a new file in the folder via atom called `index.html`
+* Save a new file in the `taste_of_code` folder via atom called `index.html`
 
 * Set up `index.html` with the basic html skeleton structure
 
