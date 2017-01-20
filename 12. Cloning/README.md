@@ -10,6 +10,6 @@ their current document.
 
 ```javascript
 var balloon = $(".balloon");
-var balloonCopy = Balloon.clone();
+var balloonCopy = balloon.clone();
 balloonCopy.appendTo("body");
 ```
