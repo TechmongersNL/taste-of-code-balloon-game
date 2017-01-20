@@ -22,3 +22,12 @@ should allow participants to "pop" a single balloon object per click event.
   balloon.remove();
 </script>
 ```
+
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/click1.png)
+
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/click2.png)
+
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/click3.png)
