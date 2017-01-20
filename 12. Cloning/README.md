@@ -13,3 +13,5 @@ var balloon = $(".balloon");
 var balloonCopy = balloon.clone();
 balloonCopy.appendTo("body");
 ```
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/clone.png)
