@@ -32,3 +32,6 @@
     balloon.remove();
 </script>
 ```
+
+![Exercise result]
+(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/random_colours.png)
