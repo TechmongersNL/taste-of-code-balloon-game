@@ -22,7 +22,6 @@
       });
 
       balloonCopy.click(function(){
-        pop_sound.play();
         $(this).remove();
         counter = counter + 1;
         $(".counter").html(counter);
