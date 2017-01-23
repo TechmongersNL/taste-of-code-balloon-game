@@ -34,33 +34,38 @@
   </body>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script>
-    var balloon = $(".balloon");
-    var counter = 0;
-    function start() {
+      var balloon = $(".balloon");
+      var counter = 0;
+
       for(var i=0; i<10; i++){
         var balloonCopy = balloon.clone();
-        balloonCopy.css({
-          left: i * 200
-        });
         balloonCopy.appendTo("body");
+
+        inflatable = balloonCopy.find(".inflatable");
+        string = balloonCopy.find(".string");
+
+        balloon_width = Math.max(20, Math.floor(Math.random() * 90) + 1);
+        balloon_height = 1.2 * balloon_width;
+
+        inflatable.css({
+          height: balloon_height,
+          width: balloon_width,
+          "border-radius": balloon_width + "px / " + balloon_height + "px"
+        });
+        string.css({"margin-left": (0.5*balloon_width), height: (0.5*balloon_height)});
+
+        balloonCopy.css({left: '50%', bottom: 0});
+
         balloonCopy.click(function(){
-          pop_sound.play();
           $(this).remove();
-          counter = counter + 1;
+          counter = counter + 100-balloon_width;
           $(".counter").html(counter);
         });
-        balloonCopy.animate({ bottom: "100%"}, 8000);
+
+        var xdiff = Math.floor(Math.random() * 100);
+        balloonCopy.show();
+        balloonCopy.animate({bottom: '100%', left: xdiff + "%"}, (8000 - balloon_width*10));
       };
       balloon.remove();
-    }
-
-    function preloadPopSound(){
-      var audio = new Audio('balloon-pop.mp3');
-      audio.preload = "auto";
-      $(audio).on("loadeddata", start);  // jQuery checking
-      return audio;
-    }
-
-    var pop_sound = preloadPopSound();
   </script>
 </html>
