@@ -20,5 +20,4 @@ assistance.
 Although this section is very short, ample time will be given for participants to
 experiment with other CSS properties on their own and with help from the coaches.
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/css_background.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/css_background.png)
