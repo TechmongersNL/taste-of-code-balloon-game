@@ -1,4 +1,4 @@
-##Objects, Properties and Methods in JavaScript
+## Objects, Properties and Methods in JavaScript
 
 In this section participants will be introduced to objects, properties and
 methods through context and the use of the JavaScript console.
@@ -16,8 +16,7 @@ window.alert("We are building an online game");
 window.open();
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/window_object.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/window_object.png)
 
 ### ✎ Exercise 2: Experimenting with a document object
 
@@ -31,5 +30,4 @@ document.body;
 document.write("Look at me taste of coding!");
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/document_object.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/document_object.png)
