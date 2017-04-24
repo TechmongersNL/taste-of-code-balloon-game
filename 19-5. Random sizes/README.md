@@ -1,4 +1,4 @@
-##Creating Random Balloon Sizes
+## Creating Random Balloon Sizes
 
 ```javascript
 <script>
@@ -38,5 +38,4 @@
 </script>
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/random_sizes.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/random_sizes.png)
