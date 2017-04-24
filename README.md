@@ -1,12 +1,12 @@
-#Taste of Code - Balloon Game
+# Taste of Code - Balloon Game
 
-###What is the Taste of Code?
+### What is the Taste of Code?
 
 Taste of Code is an immersive one-day **beginner** coding workshop with the aim
 to get more people involved in code, by impressing upon it's importance in
 today's world.
 
-###How does it work?
+### How does it work?
 
 Participants will build a game using HTML, CSS and JavaScript (jQuery). Through
 a combination of bite size theory and continuous exercise, participants will be
@@ -17,7 +17,7 @@ their own by customizing and/or adding to the code. Following this, participants
 will be shown how to put their game online so they can share it with friends and
 family.
 
-###Where you come in...
+### Where you come in...
 
 If you have been directed to this repo then that means you will be coaching at
 a Taste of Code event. In this repo you will find the steps and results for this
