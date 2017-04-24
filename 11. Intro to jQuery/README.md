@@ -1,4 +1,4 @@
-##Introduction to jQuery
+## Introduction to jQuery
 
 In this section, participants will be introduced to the JavaScript library jQuery.
 Other than covering some context about why we are using jQuery, this section will
