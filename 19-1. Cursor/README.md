@@ -1,4 +1,4 @@
-##Changing the Cursor to an Image
+## Changing the Cursor to an Image
 
 ```css
 <style>

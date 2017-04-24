@@ -1,4 +1,4 @@
-##Background with linear-gradient
+## Background with linear-gradient
 
 ```html
 <head>
@@ -31,5 +31,4 @@
 </head>
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/linear_gradient.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/linear_gradient.png)

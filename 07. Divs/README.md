@@ -1,4 +1,4 @@
-##Div's
+## Div's
 
 In this section, participants will be introduced to div's. After some brief context,
 participants will be guided in the creation of their first balloon.
@@ -57,5 +57,4 @@ css properties and values to the defined classes in exercise 1.
 </html>
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/divs.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/divs.png)

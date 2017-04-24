@@ -1,4 +1,4 @@
-##CSS Padding & Margins
+## CSS Padding & Margins
 
 In this section, participants will be introduced to padding and margins.
 
@@ -15,5 +15,4 @@ emphasize the difference between these two properties.
 The border property will also be included in the example in which participants
 will be able to experiment with.
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/css_padding_margins.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/css_padding_margins.png)

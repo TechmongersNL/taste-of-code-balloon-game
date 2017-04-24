@@ -1,4 +1,4 @@
-##Scoreboard with replay trigger
+## Scoreboard with replay trigger
 
 ```css
 .scoreboard {
@@ -92,8 +92,6 @@
 </script>
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/scoreboard1.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/scoreboard1.png)
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/scoreboard2.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/scoreboard2.png)

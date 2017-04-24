@@ -1,4 +1,4 @@
-##Random Colours for Balloon Objects
+## Random Colours for Balloon Objects
 
 ```javascript
 <script>
@@ -32,5 +32,4 @@
 </script>
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/random_colours.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/random_colours.png)

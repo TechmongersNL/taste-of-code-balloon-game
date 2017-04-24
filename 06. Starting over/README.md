@@ -1,4 +1,4 @@
-##Starting Over
+## Starting Over
 
 Up until this point, participants have covered some of the basics in html and css.
 This is all fine and dandy but they are here to build a game!

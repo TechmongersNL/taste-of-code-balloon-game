@@ -1,4 +1,4 @@
-##Taste of Code Objective
+## Taste of Code Objective
 
  Build a game using:
 

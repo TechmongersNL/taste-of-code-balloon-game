@@ -1,4 +1,4 @@
-##Loops
+## Loops
 
 In this section, participants will implement loop functionality to iterate over their
 balloon object, thus generating more balloons.
@@ -16,5 +16,4 @@ for(var i=0; 1<10; i++){
   balloonCopy.appendTo("body");
 }
 ```
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/loop.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/loop.png)

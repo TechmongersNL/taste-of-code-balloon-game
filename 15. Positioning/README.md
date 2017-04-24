@@ -1,4 +1,4 @@
-##Positioning
+## Positioning
 
 In this section, participants will correct the positioning of their balloon objects
 so that they run horizontal across the screen in vertically down the screen.
@@ -15,8 +15,7 @@ within the style tags, with the properties "position" and "bottom".
 }
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/click1.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/click1.png)
 
 ### ✎ Exercise 2: Align balloon objects horizontally
 
@@ -40,5 +39,4 @@ horizontally across the bottom of the screen using the css method in jQuery.
 </script>
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/positioning2.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/positioning2.png)

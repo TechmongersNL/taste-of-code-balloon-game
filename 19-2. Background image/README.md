@@ -1,4 +1,4 @@
-##Adding a Background Image
+## Adding a Background Image
 
 ```css
 <style>
@@ -26,5 +26,4 @@ body {
 </style>
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/background_image.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/background_image.png)
