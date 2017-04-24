@@ -1,4 +1,4 @@
-##Basic Counter
+## Basic Counter
 
 In this section, participants will add a counter to keep track of the balloons
 the "pop"
@@ -46,5 +46,4 @@ document that represents the visual display of the counter.
 </body>
 ```
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/basic_counter.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/basic_counter.png)
