@@ -1,4 +1,4 @@
-##EXTRAS
+## EXTRAS
 
 At this point, all participants should have a working MVP game. From here,
 everyone will have the better part of an hour to personalize their game.
@@ -15,5 +15,4 @@ or alter. Due to the limited time however, it is best to have participants remai
 within the confines of the what has been covered, as to manage expectations and to
 abuse any one single coach's time & effort.
 
-![Exercise result]
-(https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/extras.png)
+![](https://raw.githubusercontent.com/Codaisseur/taste-of-code-balloon-game/master/Screenshots/extras.png)
