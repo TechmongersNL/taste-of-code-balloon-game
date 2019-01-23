@@ -55,7 +55,7 @@ After that, you can just write the CSS style rule to change its color by directl
     <title>Agenda</title>
     <style>
       .main-title {
-        color: red;
+        color: blue;
       }
     </style>
   </head>
