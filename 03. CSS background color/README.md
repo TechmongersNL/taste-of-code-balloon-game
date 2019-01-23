@@ -38,7 +38,7 @@ You can write CSS directly into your `index.html` file inside the `<head>` tag u
 
 The code above will set all `h1` tags appearing in the page to be red, like so:
 
-[![](http://cd.sseu.re/20170208-zmuor.png)](http://cd.sseu.re/20170208-zmuor.png)
+[![](https://cd.sseu.re/Taste_of_Code_2019-01-23_17-17-57.png)
 
 When you want to write any CSS style rule, you should always define the following elements:
 
