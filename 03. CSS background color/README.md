@@ -38,7 +38,7 @@ You can write CSS directly into your `index.html` file inside the `<head>` tag u
 
 The code above will set all `h1` tags appearing in the page to be red, like so:
 
-[![](https://cd.sseu.re/Taste_of_Code_2019-01-23_17-17-57.png)
+![](https://cd.sseu.re/Taste_of_Code_2019-01-23_17-17-57.png)
 
 When you want to write any CSS style rule, you should always define the following elements:
 
@@ -46,7 +46,7 @@ When you want to write any CSS style rule, you should always define the followin
 * **Property** - A type of attribute of HTML tag. They could be `color`, `border` etc.
 * **Value** - Assigned to properties. For example, the `color` property can have a `red` value.
 
-[![](http://cd.sseu.re/20170208-6ohiu.png)](http://cd.sseu.re/20170208-6ohiu.png)
+![](http://cd.sseu.re/20170208-6ohiu.png)](http://cd.sseu.re/20170208-6ohiu.png)
 
 Now it's time for you to practice!
 
@@ -62,7 +62,7 @@ Now it's time for you to practice!
 
 > Change the `background-color` of your HTML page to `green`, like so:
 >
-> [![](https://cd.sseu.re/Taste_of_Code_2019-01-23_17-19-30.png)
+> ![](https://cd.sseu.re/Taste_of_Code_2019-01-23_17-19-30.png)
 
 
 ## 🎩 Only for Coaches
