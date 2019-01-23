@@ -61,13 +61,13 @@ Now it's time for you to practice!
 
 > First you need to create a new project project in Atom (your text editor), following these steps:
 >
-> 1. Create a new folder somewhere in your computer called `toc-rss-reader`. **It is important that you can find this folder later ;-) .**
+> 1. Create a new folder somewhere in your computer called `toc-balloon-game`. **It is important that you can find this folder later ;-) .**
 >
 > 2. Open Atom and add a new project folder:
 >
 >   [![](http://cd.sseu.re/20170208-9cw7z.png)](http://cd.sseu.re/20170208-9cw7z.png)
 >
-> 3. A new window will open, where you can search for the `toc-rss-reader` folder in your computer. Select it and click `Open`:
+> 3. A new window will open, where you can search for the `toc-balloon-game` folder in your computer. Select it and click `Open`:
 >
 >   [![](http://cd.sseu.re/20170208-3o9j6.png)](http://cd.sseu.re/20170208-3o9j6.png)
 >
@@ -81,7 +81,7 @@ Now it's time for you to practice!
 >
 > 5. Write your first HTML inside the `index.html`, applying everything you learnt until now. When you open that file in Chrome, it should render a page similar to this one (feel free to add any of your favorite news sites under the list):
 >
->   [![](http://cd.sseu.re/20170208-9ll45.png)](http://cd.sseu.re/20170208-9ll45.png)
+> ![](https://cd.sseu.re/Taste_of_Code_2019-01-23_16-24-10.png)
 
 
 
