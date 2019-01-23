@@ -46,7 +46,7 @@ When you want to write any CSS style rule, you should always define the followin
 * **Property** - A type of attribute of HTML tag. They could be `color`, `border` etc.
 * **Value** - Assigned to properties. For example, the `color` property can have a `red` value.
 
-![](http://cd.sseu.re/20170208-6ohiu.png)](http://cd.sseu.re/20170208-6ohiu.png)
+![](http://cd.sseu.re/20170208-6ohiu.png)
 
 Now it's time for you to practice!
 
