@@ -79,7 +79,7 @@ Now it's time for you to practice!
 >
 >   [![](http://cd.sseu.re/20170208-pn3c0.png)](http://cd.sseu.re/20170208-pn3c0.png)
 >
-> 5. Write your first HTML inside the `index.html`, applying everything you learnt until now. When you open that file in Chrome, it should render a page similar to this one (feel free to add any of your favorite news sites under the list):
+> 5. Write your first HTML inside the `my_first_code.html`, applying everything you learnt until now. When you open that file in Chrome, it should render a page similar to this one (feel free to add any of your favorite news sites under the list):
 >
 > ![](https://cd.sseu.re/Taste_of_Code_2019-01-23_16-24-10.png)
 
