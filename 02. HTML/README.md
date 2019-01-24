@@ -61,17 +61,17 @@ Now it's time for you to practice!
 
 > First you need to create a new project project in Atom (your text editor), following these steps:
 >
-> 1. Create a new folder somewhere in your computer called `toc-balloon-game`. **It is important that you can find this folder later ;-) .**
+> 1. Create a new folder somewhere in your computer called `my_first_code`. **It is important that you can find this folder later ;-) .**
 >
 > 2. Open Atom and add a new project folder:
 >
 >   [![](http://cd.sseu.re/20170208-9cw7z.png)](http://cd.sseu.re/20170208-9cw7z.png)
 >
-> 3. A new window will open, where you can search for the `toc-balloon-game` folder in your computer. Select it and click `Open`:
+> 3. A new window will open, where you can search for the `my_first_code` folder in your computer. Select it and click `Open`:
 >
 >   [![](http://cd.sseu.re/20170208-3o9j6.png)](http://cd.sseu.re/20170208-3o9j6.png)
 >
-> 4. You should see a sidebar appearing on the left of your editor. Create a new file inside of this folder called `index.html` (you will be writing your first HTML in there):
+> 4. You should see a sidebar appearing on the left of your editor. Create a new file inside of this folder called `my_first_code.html` (you will be writing your first HTML in there):
 >
 >   [![](http://cd.sseu.re/20170208-vy91b.png)](http://cd.sseu.re/20170208-vy91b.png)
 >
